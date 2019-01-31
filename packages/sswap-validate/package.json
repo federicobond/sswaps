@@ -1,0 +1,19 @@
+{
+  "name": "sswap-validate",
+  "version": "0.1.0",
+  "description": "A validator for submarine swaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.2",
+    "bolt11": "^1.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
